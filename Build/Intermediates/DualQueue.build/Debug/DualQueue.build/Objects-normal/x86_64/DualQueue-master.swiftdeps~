@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "a5acd23fbbe2749cf24cc782aac5047d"
+build_time: [1509025243, 810914000]
+inputs:
+  "/Users/Bamz/Developer/DualQueue/DualQueue/main.swift": [1509025190, 0]
